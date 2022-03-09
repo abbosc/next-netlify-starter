@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Abbos Mavlonov" />
         <p className="description">
-          Coming soon! <code>pages/index.js</code>
+          Coming soon! 
         </p>
       </main>
 
